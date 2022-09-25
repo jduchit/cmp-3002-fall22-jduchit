@@ -1,6 +1,5 @@
 ###          ESTRUCTURA DE DATOS          ###
 ### Nombre: Johana Duchi Tipan            ###
-### Codigo: 00321980                      ###
 ### Fecha : 30/08/2022                    ###
 ### Tema  : Control de versiones Git      ###
 ### Ejercicio 2: Practicar con Git        ###
@@ -14,4 +13,4 @@ def suma (n):
         result = result + suma
     print("La suma de numeros de 1 a {} es: {}".format(n,result))
 
-suma(10)                           
+suma(10)   
