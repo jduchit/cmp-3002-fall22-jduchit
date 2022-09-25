@@ -4,8 +4,8 @@
 ### Tema  : Control de versiones Git      ###
 ### Ejercicio 2: Practicar con Git        ###
 
-#Write a function that takes calculates the sum of numbers from 1 to n, where n is the input#
-#Escribe una funcion que calcule la suma de numeros de 1 a n, donde n es la entrada#
+#Write a function that takes calculates the sum of numbers from 1 to n, where n is the input #
+#Escribe una funcion que calcule la suma de numeros de 1 a n, donde n es la entrada          #
 
 def suma (n):
     result = 0
