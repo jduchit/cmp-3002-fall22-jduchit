@@ -99,38 +99,7 @@ def sum_list(list1,list2,list3):
         
         suma_lista.list_traversed()
         return suma_lista
-    """
-    list1.reverse()
-    list2.reverse()
-    list3.reverse()
-    #creates variable to retain the values of each part of the number
-    node1 = list1.head_node
-    node2 = list2.head_node
-    node3 = list3.head_node
-    remainder = 0 #remainder is gonna represent the extra from the sum
-
-    while node1 != None: #cycles through the whole int
-        val = (node1.val + node2.val + node3.val + remainder) #adds the values of the respective node as each node is a section of the number, remainder adds the remainder from the last sum
-        new_node = Node(val %10) # only keeps the value in its decimal place
-        remainder = val // 10 #registers the remainder
-        list4.insert_head(new_node) #adds the number to its correct places
-        #cycles through the nodes
-        node1 = node1.next_node
-        node2 = node2.next_node
-        node3 = node3.next_node
-    if remainder > 0: #adds any last remainder
-        list4.insert_head(Node(remainder))
-
-    #restores the lists to normal
-    list1.reverse()
-    list2.reverse()
-    list3.reverse()
-    # list4.list_traversed()
-    return list4"""
-    
-    
-    
-    return    
+   
 print("\n Linked list 1: ")   
 list1=num_to_list(345)
 list1.list_traversed()
