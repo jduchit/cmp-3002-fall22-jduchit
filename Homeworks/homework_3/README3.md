@@ -13,7 +13,7 @@ El impulso que se tuvo para este deber fue comprender cada una de las métodos d
 
 ## Introducción
 
-Este deber analiza los métodos quick sort, inser sort, merge sort, divide and conquer y recursion. .
+Este deber analiza los métodos quick sort, inser sort, merge sort, divide and conquer y recursion.
 
 Los ejercicios fueron planteados por Alejandro Proaño para la clase de estructura de datos cmp-3002-fall22.
 
