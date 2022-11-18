@@ -1,7 +1,7 @@
 # Deber 3 - Estructura de datos
 
-###Docente:  Alejandro Proaño
-###Autor:    Johana Duchi Tipán
+### Docente:  Alejandro Proaño
+### Autor:    Johana Duchi Tipán
 
 ## Objetivo
 
