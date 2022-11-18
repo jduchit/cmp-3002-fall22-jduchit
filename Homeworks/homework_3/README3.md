@@ -9,7 +9,7 @@ El objetivo del deber es analizar cómo funciona cada una de los métodos de ord
 
 ## Motivación
 
-El impulso que se tuvo para este deber fue comprender cada una de las métodos de ordenamiento para poder determinar obtener una búsqueda más eficiente.
+El impulso que se tuvo para este deber fue comprender cada una de las métodos de ordenamiento para poder obtener una búsqueda más eficiente.
 
 ## Introducción
 
